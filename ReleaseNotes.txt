@@ -1,0 +1,13 @@
+Game Project: Looting and Exiting
+Creator: Marvin Jacobs
+Version: 1.2
+Date: 1/23/2025
+
+
+Fixes
+- Added more exit tiles between the second and third room
+- Changed key item to food item
+﻿
+Improvements (of existing features)
+- Changed dialogue of dragon in second room to fit narrative better
+
